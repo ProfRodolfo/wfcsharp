@@ -1,0 +1,9 @@
+C:\Users\rodol\Desktop\wfconceitos\cursowf\cursowf\bin\Debug\cursowf.exe.config
+C:\Users\rodol\Desktop\wfconceitos\cursowf\cursowf\bin\Debug\cursowf.exe
+C:\Users\rodol\Desktop\wfconceitos\cursowf\cursowf\bin\Debug\cursowf.pdb
+C:\Users\rodol\Desktop\wfconceitos\cursowf\cursowf\obj\Debug\cursowf.csproj.AssemblyReference.cache
+C:\Users\rodol\Desktop\wfconceitos\cursowf\cursowf\obj\Debug\cursowf.Properties.Resources.resources
+C:\Users\rodol\Desktop\wfconceitos\cursowf\cursowf\obj\Debug\cursowf.csproj.GenerateResource.cache
+C:\Users\rodol\Desktop\wfconceitos\cursowf\cursowf\obj\Debug\cursowf.csproj.CoreCompileInputs.cache
+C:\Users\rodol\Desktop\wfconceitos\cursowf\cursowf\obj\Debug\cursowf.exe
+C:\Users\rodol\Desktop\wfconceitos\cursowf\cursowf\obj\Debug\cursowf.pdb
