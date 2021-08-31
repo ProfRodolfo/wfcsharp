@@ -7,3 +7,4 @@ C:\Users\rodol\Desktop\wfconceitos\cursowf\cursowf\obj\Debug\cursowf.csproj.Gene
 C:\Users\rodol\Desktop\wfconceitos\cursowf\cursowf\obj\Debug\cursowf.csproj.CoreCompileInputs.cache
 C:\Users\rodol\Desktop\wfconceitos\cursowf\cursowf\obj\Debug\cursowf.exe
 C:\Users\rodol\Desktop\wfconceitos\cursowf\cursowf\obj\Debug\cursowf.pdb
+C:\Users\rodol\Desktop\wfconceitos\cursowf\cursowf\obj\Debug\cursowf.HelloWorld.resources

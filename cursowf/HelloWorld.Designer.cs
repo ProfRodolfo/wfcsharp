@@ -1,7 +1,7 @@
 ﻿
 namespace cursowf
 {
-    partial class Form1
+    partial class HelloWorld
     {
         /// <summary>
         /// Required designer variable.
@@ -29,10 +29,18 @@ namespace cursowf
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.SuspendLayout();
+            // 
+            // HelloWorld
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Form1";
+            this.Name = "HelloWorld";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Hello World";
+            this.ResumeLayout(false);
+
         }
 
         #endregion
