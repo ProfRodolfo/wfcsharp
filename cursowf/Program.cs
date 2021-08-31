@@ -16,7 +16,11 @@ namespace cursowf
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+<<<<<<< HEAD
             Application.Run(new Frm_HelloWorld());
+=======
+            Application.Run(new HelloWorld());
+>>>>>>> 11dd1645ea1719e387b07701a9f4ddc4d61f98e5
         }
     }
 }
